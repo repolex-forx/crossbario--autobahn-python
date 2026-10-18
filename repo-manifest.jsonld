@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/crossbario/autobahn-python/commit/657d0fa16edf8907aa1284ad84e23d6af37432ff",
       "git:hexsha": "657d0fa16edf8907aa1284ad84e23d6af37432ff",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "master-202610180728"
     },
     {
